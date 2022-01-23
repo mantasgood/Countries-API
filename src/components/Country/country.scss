@@ -1,0 +1,43 @@
+.country {
+  padding: 60px;
+}
+
+.backbtn {
+  margin-bottom: 30px;
+  display: inline-block;
+  background-color: #2568fb;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: inherit;
+}
+
+.backbtn:hover {
+  background-color: #2569fba4;
+}
+
+.country article .country-details div {
+  margin: 20px 0;
+}
+
+.country article .country-details h2 {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.country article .country-details h5 {
+  font-weight: 600;
+  font-size: 20px;
+  margin: 5px 0;
+}
+
+.country article .country-details h5 span {
+  font-weight: 300;
+}
+
+.detailedFlag {
+  max-width: 50%;
+  border-radius: 10px;
+}
